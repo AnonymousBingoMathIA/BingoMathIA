@@ -1,20 +1,20 @@
-#Bingo Simulation Math IA
+#Bingo Simulation Math IA#
 
-This program will simulate a set of bingo games.
+##This program will simulate a set of bingo games.##
 
-The input for the program is a list in which each element will contain one of two things
+####The input for the program is a list in which each element will contain one of two things####
 
 First: The number of games
 Second: The number of players per game
 
 For example if the list was as follows:
-[
+`[
 [100000, 1],
 [100000, 10],
 [100000, 100],
 [100000, 1000],
 [100000, 10000]
-]
+]`
 
 First 100,000 games with 1 player will be simulated
 Then 100,000 games with 10 players
